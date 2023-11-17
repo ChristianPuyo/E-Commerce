@@ -1,0 +1,37 @@
+.menuCont{
+    position: absolute;
+    top: 12vh;
+    width: 100vw;
+    height: 88vh;
+    z-index: 1000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    background: rgb(255, 255, 255, 0.5);
+    font-family: var(--primary-font);
+    
+}
+.itemsCont{
+    background: white;
+    height: 88vh;
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    border-left: 1px solid #eaeaea;
+}
+.itemsList{
+    list-style: none;
+    height: 80vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

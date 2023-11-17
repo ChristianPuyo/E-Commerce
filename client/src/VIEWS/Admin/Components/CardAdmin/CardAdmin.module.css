@@ -1,0 +1,6 @@
+.Card:hover {
+    transform: translateY(-0.3rem);
+    box-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: 0.5s; /* Asegúrate de especificar la duración en segundos con "s" al final */
+}

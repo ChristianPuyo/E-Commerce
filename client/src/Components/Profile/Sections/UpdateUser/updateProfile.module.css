@@ -1,0 +1,24 @@
+.profileContainer{
+    min-height: 100vh;
+    margin: 5vh 0;
+}
+.userCard{
+    width: 130vh;
+    height: 80vh;
+
+}
+.uploadImage {
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh; 
+}
+  
+  /* .centerContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  } */
+  
+  .butonUpdateProfile {
+    margin: auto auto; 
+  }

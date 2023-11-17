@@ -1,0 +1,143 @@
+{
+    "navBar": {
+      "not-costumer-yet?": "还不是客户？",
+      "Register": "注册",
+      "Hello": "你好"
+    },
+    "order": {
+      "Highest-price": "最高价格",
+      "Lowest-price": "最低价格"
+    },
+    "filters": {
+      "Categories": "类别",
+      "Order": "排序",
+      "Chocolate type": "巧克力类型",
+      "Minimum": "最小",
+      "Maximum": "最大",
+      "Clear": "清除"
+    },
+    "types": {
+      "All": "全部",
+      "WhiteChocolate": "白巧克力",
+      "Chocolate_w_milk": "牛奶巧克力",
+      "Semisweet": "半甜巧克力"
+    },
+    "footer": {
+      "Location": "位置",
+      "Social-Media": "社交媒体",
+      "Contact": "联系",
+      "Phone": "电话",
+      "Rights": "版權所有"
+    },
+    "searchBar": {
+      "Search-by-name": "按名称搜索"
+    },
+    "menu": {
+      "Profile": "个人资料",
+      "Favorite-products": "收藏的产品",
+      "Homepage": "主页",
+      "Meet-us": "了解我们",
+      "Contact-Us": "聯絡我們",
+      "Log-off": "注销",
+      "Log-in": "登录",
+      "Administrator-Panel": "管理员面板"
+    },
+    "home": {
+      "error": "未找到产品"
+    },
+    "map": {
+      "Title": "我們在哪裡見面？"
+  },
+    "banner": {
+      "title": "享受本地最美味的美食。",
+      "titledescription1": "您喜歡的巧克力：創造、品嚐、享受！",
+      "description1": "讓你們的甜蜜時刻更加特別！探索我們的手工巧克力系列，並透過客製化訂單創造您自己的風味天堂。將您的想法變成精緻的巧克力現實，立即下訂單！",
+      "titledescription2": "巧克力組合：找到您的甜蜜平衡！",
+      "description2": "發現每一種組合的完美！我們的手工巧克力抽屜為您提供獨特的體驗。我們精心準備的精選菜餚讓您大飽口福，每一口都是美味的爆發！找到您理想的組合，讓自己沉浸在甜蜜感覺的世界中。",
+      "titledescription3": "誘人的美味：手工巧克力和巧克力棒帶來絕對的愉悅",
+      "description3": "每一口都是甜蜜的享受！探索我們各種手工巧克力和巧克力棒。從精緻巧克力的享受到巧克力棒鬆脆的滿足感，每個產品都旨在滿足您的感官需求。讓自己沉浸在一個充滿不可抗拒誘惑的世界中，讓自己被我們巧克力的品質所吸引。",
+      "titledescription4": "每一口都體驗巧克力的魔力！下訂單並用我們美味的工匠雞蛋讓自己變得更甜。",
+      "description4": "您還在等什麼來享用我們精美的巧克力蛋來滿足您的味蕾呢？我們的手工產品讓每一刻都更加甜蜜、更加特別。立即下訂單，讓巧克力的魔力征服您的一天！"
+    },
+    "carousel": {
+      "slogan": "糖衣你的时光艺术！",
+      "Start": "開始"
+    },
+    "about": {
+      "title": "解决方案为您的项目",
+      "description": "一支由7名全栈开发人员组成的卓越团队，通过灵感、激情和对知识的深刻掌握而形成，致力于为每位创业者提供服务。我们致力于项目的执行，我们的团队由具有坚实沟通技巧、工作经验和出色社交能力的专业人士组成。"
+    },
+    "coder": {
+      "1": "具有扎实的React、Redux、Nodejs、JavaScript培训的全栈Web开发人员。",
+      "2": "具有较高坚持水平、敬业、负责任且致力于人际关系的分析师。",
+      "3": "全栈Web开发人员，以React为导向，专注于基于市场需求的结构化电子商务项目。",
+      "4": "具有开发交互式可扩展Web应用程序的经验。专业于JavaScript、React、Node.js、Express.js、Sequelize和PostgreSQL。",
+      "5": "全栈Web开发人员，专攻前端。热衷于创建愉快且实用的用户体验。",
+      "6": "解决问题的程序员，充满激情。始终在学习。创新、适应性强，渴望整合最新技术。专注于结果。",
+      "7": "对技术充满热情的全栈开发人员，不断寻找基于经验、创意和为您的团队做出贡献的意愿的解决方案。"
+    },
+    "profileMain": {
+      "Loading": "加载中",
+      "Basic Information": "基本信息",
+      "Security": "安全",
+      "Shopping": "购物",
+      "UserInformation": "无法加载用户信息。",
+      "PleaseLogin": "请登录以继续。"
+    },
+    "upProfile": {
+      "Upload-image": "上传图片",
+      "Name": "名字",
+      "Enter-name": "请输入您的名字！",
+      "Invalid-name": "无效的名字。",
+      "LastName": "姓",
+      "Enter-lastname": "请输入您的姓氏！",
+      "Invalid-lastName": "无效的姓氏。",
+      "Phone": "电话",
+      "Enter-phone": "请输入您的电话号码！",
+      "Invalid-phone": "无效的号码。",
+      "Adress": "地址",
+      "Enter-Adress": "请输入您的地址！",
+      "Invalid-adress": "无效的地址。",
+      "Update": "更新"
+    },
+    "security": {
+      "changePassword": "更改密码",
+      "Password": "密码",
+      "update": "更新",
+      "changeEmail": "更改电子邮件",
+      "E-mail": "电子邮件",
+      "InsertPass": "请输入您的新密码！",
+      "SuccefullyPass": "密码成功更新。请使用新密码重新登录。",
+      "PassError": "更新密码时出错。请重试。",
+      "Update": "更新",
+      "InsertEmail": "请输入您的电子邮件地址！",
+      "InvalidEmail": "无效的电子邮件。",
+      "EnterCredentials": "请提供您的凭据",
+      "SuccefullyEmail": "电子邮件成功更新",
+      "Accept": "接受",
+      "EmailReview": "要继续，请检查您的新电子邮件收件箱。",
+      "EmailNewSession": "使用您的新电子邮件地址登录，准备好了！",
+      "EmailError": "更新电子邮件时出错。请重试。"
+    },
+    "shopping": {
+      "PurchaseDetail": "购买详情",
+      "RateProduct": "评价产品",
+      "NoPurchase": "您还没有进行任何购买",
+      "FirstPurchase": "您的第一次购物正在等待您！发现我们为您提供的各种产品。",
+      "Explore": "浏览产品"
+    },
+    "contactUS": {
+        "Name": "名字:", 
+        "NameHolder": "在此輸入您的姓名...", 
+        "E-mail": "电子邮件:",
+        "E-mailHolder": "在此輸入您的電子郵件...",
+        "Message": "資訊:",
+        "MessageHolder": "在此輸入您的查詢...",
+        "SendMessage": "傳送",
+        "Description1": "您想在您的商店購買我們的產品嗎？",
+        "Description2": "聯絡我們，以了解有關我們提供的特殊產品和服務的更多信息"
+    },
+    "Products": {
+      "ProductsTitle": "產品"
+  }
+}

@@ -1,0 +1,90 @@
+.NavBar {
+  position: fixed; /* Fija la barra de navegación en su lugar */
+  width: 20%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #582f0e; /* Fondo marrón oscuro */
+  overflow-y: auto; /* Habilita la barra de desplazamiento vertical si el contenido es más largo que la altura máxima */
+  max-height: 100vh; /* Establece la altura máxima como la altura de la ventana */
+  z-index: 1; /* Asegura que la barra de navegación esté en la parte superior de otros elementos */
+}
+
+.Icon {
+  display: flex;
+}
+
+.NavBar img {
+  width: 25%;
+  margin: 5%;
+}
+
+/* Estilos para los enlaces (a) */
+.NavBar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.NavBar li {
+  display: flex;
+  align-items: center;
+  margin: 15% 0;
+  width: 100%;
+}
+
+.Item {
+  display: flex;
+  align-items: center;
+  margin: 0 5% 0 5%;
+  width: 100%;
+}
+
+.NavBar a {
+  text-decoration: none;
+  font-size: 24px; /* Tamaño de fuente más grande */
+  color: white; /* Color de fuente blanco por defecto */
+  transition: color 0.3s, transform 0.3s;
+  margin-left: 10%;
+}
+
+.NavBar a:hover {
+  color: #9c7652; /* Color marrón claro al pasar el ratón */
+  transform: scale(1.1); /* Aumentar el tamaño al pasar el ratón */
+}
+
+@media (max-width: 768px) {
+  .NavBar {
+    justify-content: center;
+    text-align: center;
+    width: 12vh;
+  }
+
+  .NavBar img {
+    margin: 5%;
+  }
+
+  .Items {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: space-around;
+  }
+
+  .Item {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 5%;
+  }
+
+}
+
+@media (max-width: 500px) {
+  .NavBar {
+    justify-content: center;
+    text-align: center;
+    width: 10vh;
+  }
+}

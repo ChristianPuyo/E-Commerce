@@ -1,0 +1,88 @@
+.chatCont{
+  min-height: 88vh;
+}
+.container {
+  width: 50vw;
+  height: 50vh;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.messageList { 
+  list-style: none; 
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.messageList li {
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.messageList li:hover {
+  background-color: #ecf0f1;
+}
+
+.messageItem {
+  display: flex;
+  align-items: flex-start;
+ 
+}
+
+.messageItem span {
+  font-weight: bold;
+  margin-right: 8px;
+  color: #3498db;
+}
+
+.messageInputContainer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.messageInput {
+  flex: 1;
+  padding: 10px;
+  border: 2px solid #3498db;
+  border-radius: 6px;
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.sendButton {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.sendButton:hover {
+  background-color: #2980b9;
+}
+
+.titleChat {
+  text-align: center;
+  font-size: 2.5rem;
+  padding: 10px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin-bottom: 20px;
+  font-family: 'Arial', sans-serif;
+  letter-spacing: 2px;
+  text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.timestamp {
+  font-size: 0.8em;
+  color: #777;
+  margin: 8px;
+}

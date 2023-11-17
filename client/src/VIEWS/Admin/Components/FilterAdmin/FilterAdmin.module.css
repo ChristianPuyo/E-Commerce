@@ -1,0 +1,9 @@
+.filterCont {
+    display: flex;
+    justify-content: space-around;
+    align-items: last baseline;
+}
+
+.filterItem {
+    margin: 1% 2% 1% 2%;
+}

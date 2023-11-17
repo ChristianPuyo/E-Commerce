@@ -1,0 +1,56 @@
+.carouselContainer{
+    position: relative;
+    width: 100vw;
+    height: 88vh;
+}
+.sliceContainer{
+    display: "flex";
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 88vh;
+    background-size: cover; 
+    background-position: center; 
+    overflow: hidden; 
+}
+.images{
+    width: 100%;
+    height: 88vh;
+    object-fit: cover;
+}
+.landingCont{
+    position: absolute;
+    top: 0;
+    background: rgba(0, 0 , 0, 0.7);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    font-family: var(--primary-font);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.enter{
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    background: white;
+    font-family: var(--primary-font);
+    margin-top: 10vh ;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.enter:hover{
+    transform: scale(1.05);
+}
+.logoImg{
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,25 @@
+/* SearchBarUsers.module.css */
+
+.searchBar {
+    padding: 10px;
+    font-size: 14px; /* Texto un poco más grande */
+    border: none;
+    border-radius: 10px; /* Borde redondeado */
+    background-color: #f5f5f5;
+    color: #333;
+    outline: none;
+    width: 200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s, background-color 0.3s;
+  }
+  
+  .searchBar::placeholder {
+    color: #999;
+  }
+  
+  /* Estilos al enfocar el campo de búsqueda */
+  .searchBar:focus {
+    box-shadow: 0 4px 6px rgba(0, 123, 255, 0.3);
+    background-color: #fff;
+  }
+  

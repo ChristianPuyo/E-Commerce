@@ -1,0 +1,74 @@
+.SubHeader{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.h31 {
+  color: #582f0e;
+  font-weight: bolder;
+}
+
+.InfoCards{
+  width: 80%;
+}
+
+.CardsInfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 2% 0 2%;
+}
+
+.BestCard{
+  display: flex;
+  width: 25em;
+  margin: 5%;
+  border: 1px solid black;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Grafics {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5% 0 5% 0%;
+}
+
+.h2Ventas {
+  margin: 3% ;
+}
+
+.SeeMoreText {
+  color: #582f0e;
+  cursor: pointer;
+  transition: color 0.3s;
+
+  &:hover {
+    color: #9c7652;
+  }
+}
+
+@media (max-width: 768px) {
+  .SubHeader{
+    flex-direction: column;
+  }
+  
+  .InfoCards {
+    width: 88vh;
+    align-items: center;
+  }
+}
+
+@media (max-width: 690px) {
+  .CardsInfo{
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto 0 auto;
+  }
+}

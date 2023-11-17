@@ -1,0 +1,34 @@
+.cont{
+    width: 100vw;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--primary-font);
+}
+.alerts{
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.results{
+    color: var(--brown);
+    font-size: 16px;
+}
+.empty{
+    color: var(--brown);
+    font-size: 36px;
+}
+.cardsCont{
+    width: 100vw;
+    min-height: 65vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}

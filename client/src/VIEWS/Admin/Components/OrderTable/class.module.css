@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+.selectContainer{
+    display: flex;
+    justify-content: center;
+}

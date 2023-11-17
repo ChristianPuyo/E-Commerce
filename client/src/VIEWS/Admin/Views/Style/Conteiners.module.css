@@ -1,0 +1,29 @@
+.Container {
+  display: flex;
+  width: 100vw;
+  height:100vh;
+}
+
+.Panel {
+  width: 80vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19.5%;
+  background-color: #EDE0D4;
+  padding-bottom: 5%;
+  overflow-y: scroll;
+}
+
+@media (max-width: 768px) {
+  .Panel {
+    width: 100vw;
+    margin-left: 11.5vh;
+  }
+}
+
+@media (max-width: 500px) {
+  .Panel {
+    margin-left: 10vh;
+  }
+}

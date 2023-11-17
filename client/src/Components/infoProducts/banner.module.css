@@ -1,0 +1,56 @@
+.bannerCont{
+    width: 100vw;
+    height: auto;
+    background: var(--brown);
+    font-family: var(--primary-font);
+    padding: 20px;
+}
+
+.bannerTitle{
+    color: white;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 38px;
+}
+
+.bannerItemsCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    width: 100vw;
+}
+.itemCont{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: var(--ligth-brown);
+    width: 70vw;
+    height: 40vh;
+    border-radius: 10px;
+}
+.imgCont{
+    width: 32vh;
+    height: 32vh;
+    
+}
+.imgCont img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.textBanner{
+    width: 40vw;
+    height: 32vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}

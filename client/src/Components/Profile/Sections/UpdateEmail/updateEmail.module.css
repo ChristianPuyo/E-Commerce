@@ -1,0 +1,8 @@
+.inputGroup{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+}
+.loading{
+    width: 100% ;
+}

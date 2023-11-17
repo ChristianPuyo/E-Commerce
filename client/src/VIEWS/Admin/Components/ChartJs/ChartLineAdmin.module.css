@@ -1,0 +1,7 @@
+/* Estilos para pantallas pequeñas (por ejemplo, dispositivos móviles) */
+@media screen and (max-width: 400) {
+    .apexcharts-canvas {
+      width: 100% !important;
+    }
+  }
+  

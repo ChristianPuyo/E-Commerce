@@ -1,0 +1,105 @@
+
+.detailContainer{
+    width: 180vh;
+    min-height: 100vh;
+    margin: auto;
+    margin-top: 4vh;
+    margin-bottom: 2vh;
+}
+.loading{
+    margin-top: 40vh;
+    color: #FC8E28!important;
+}
+.back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 17px;
+}
+.image{
+    width: 90%;
+    border-radius: 2vh;
+}
+.noLikedButton, .likedButton {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 2rem; 
+    transition: color 0.3s ease; 
+}
+.likedButton{
+    color: darkorange;
+}
+
+.span{
+    padding: 1%;
+}
+.productInfo{
+    padding: 3%;
+}
+.productInfo > * {
+    margin-bottom: 10%;
+}  
+  
+.productButtons{
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+}
+.productButtons * {
+    margin: 0.5%;
+}
+.contentAddReview{
+    margin-top: 2%;
+    margin-bottom: 4%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+}
+.addReview{
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+}
+.titleComments{
+    text-align: left;
+}
+.addRating{
+    margin: 1%;
+}
+.inputToComment{
+    width: 85%;
+    max-height: 10vh;
+}
+.buttonAddComment{
+    width: 14%;
+    height: 10vh;
+    right: 0;
+
+}
+.NameAndRate{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+}
+.NameAndRate > *{
+    margin-right: 5%;
+}
+.Comments{
+    margin: 5%;
+}
+.date{
+    font-size: 0.7rem;
+    text-align: right;
+    color:darkgrey;
+}
+.descriptionComment{
+    margin: 0.5% 0;
+    text-align: justify;
+    max-width: 95%;
+}
+.iconsRyE{
+    width: 5vh;
+}

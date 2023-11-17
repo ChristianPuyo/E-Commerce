@@ -1,0 +1,9 @@
+.IconDelete {
+  transition: transform 0.3s;
+}
+  
+.IconDelete:hover {
+  color: red;
+  cursor: pointer;
+  transform: scale(1.3); 
+}

@@ -1,0 +1,64 @@
+/* CSS CARD */
+
+:root {
+    --color-grey-primary: white;
+    --color-yellow-primary: goldenrod;
+    --color-orange-primary: darkorange;
+    --color-green-primary: mediumseagreen;
+    --color-beige-primary: #C8AE7D;
+  }
+  
+  .productList {
+    display: flex;
+    justify-content: space-between;
+    margin: 4vh 1vh 0 1vh;
+    
+  }
+  .card{
+    background-color: var(--color-grey-primary);
+    border: 2px solid var(--color-beige-primary);
+    transition: all 0.5s;
+  }
+  .card:hover {
+    /* transform: translateY(-0.3rem); */
+    box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgb(187, 141, 108);
+    transform: scale(1.02);
+    transition: 0.9s;
+  }
+.link{text-decoration: none;}
+  
+  .img {
+    max-width: 100%;
+  }
+  .name{
+    font-size: 1.1rem;
+    margin-bottom: 15%;
+  }
+
+  .name:hover{
+    color: blue
+  }
+  .raiting{
+
+  }
+
+  .price{
+    font-size: 1.4rem;
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    margin: 5%;
+    margin: 5%;
+  }
+  .buttons{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 5%;
+  }
+  .button{
+    border: 1px solid var(--color-orange-primary) !important;
+    color: var(--color-orange-primary) !important;
+  }
+
+

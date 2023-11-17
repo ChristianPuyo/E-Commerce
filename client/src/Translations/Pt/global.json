@@ -1,0 +1,143 @@
+{
+  "navBar": {
+    "not-costumer-yet?": "Ainda não é cliente?",
+    "Register": "Cadastre-se",
+    "Hello": "Olá novamente"
+  },
+  "order": {
+    "Highest-price": "Maior preço",
+    "Lowest-price": "Menor preço"
+  },
+  "filters": {
+    "Categories": "Categorias",
+    "Order": "Ordem",
+    "Chocolate type": "Tipo de chocolate",
+    "Minimum": "Mínimo",
+    "Maximum": "Máximo",
+    "Clear": "Limpar"
+  },
+  "types": {
+    "All": "Todos",
+    "WhiteChocolate": "Chocolate branco",
+    "Chocolate_w_milk": "Chocolate com leite",
+    "Semisweet": "Chocolate meio amargo"
+  },
+  "footer": {
+    "Location": "Localização",
+    "Social-Media": "Redes Sociais",
+    "Contact": "Contato",
+    "Phone": "Telefone",
+    "Rights": "Todos os direitos reservados"
+  },
+  "searchBar": {
+    "Search-by-name": "Buscar por nome"
+  },
+  "map": {
+    "Title": "Onde nos encontramos?"
+},
+  "menu": {
+    "Profile": "Perfil",
+    "Favorite-products": "Produtos favoritos",
+    "Homepage": "Página principal",
+    "Meet-us": "Conheça-nos",
+    "Contact-Us": "Contate-nos",
+    "Log-off": "Sair",
+    "Log-in": "Entrar",
+    "Administrator-Panel": "Painel de Administrador"
+  },
+  "home": {
+    "error": "Nenhum produto encontrado"
+  },
+  "banner": {
+    "title": "Desfrute das melhores delícias da região.",
+    "titledescription1": "Chocolates ao seu gosto: Crie, Saboreie, Aproveite!",
+    "description1": "Torne seus doces momentos ainda mais especiais! Descubra a nossa gama de chocolates artesanais e crie o seu próprio paraíso de sabores com encomendas personalizadas. Transforme suas ideias em requintadas realidades de chocolate e faça seu pedido hoje mesmo!",
+    "titledescription2": "Combos de chocolate: encontre seu doce equilíbrio!",
+    "description2": "Descubra a perfeição em cada combinação! Nossas gavetas artesanais de chocolate oferecem uma experiência única. Delicie-se com a nossa selecção cuidadosamente preparada, onde cada dentada é uma explosão de sabor! Encontre a sua combinação ideal e mergulhe num mundo de doces sensações.",
+    "titledescription3": "Delícias tentadoras: chocolates e barras artesanais para prazer absoluto",
+    "description3": "Doces delícias em cada mordida! Explore nossa variedade de chocolates artesanais e barras de chocolate. Da indulgência dos nossos chocolates requintados à satisfação crocante das nossas barras, cada produto é criado para deliciar os seus sentidos. Mergulhe num mundo de tentações irresistíveis e deixe-se seduzir pela qualidade dos nossos chocolates.",
+    "titledescription4": "Experimente a magia do chocolate em cada mordida! Faça seu Pedido e Adoce-se com Nossos Deliciosos Ovos Artesanais.",
+    "description4": "Do que você está esperando para deliciar seu paladar com nossos deliciosos ovos de chocolate? Torne cada momento mais doce e especial com nossos produtos artesanais. Faça já o seu pedido e deixe a magia do chocolate conquistar o seu dia!"
+  },
+  "carousel": {
+    "slogan": "A arte de adoçar seus momentos!",
+    "Start": "Começar"
+  },
+  "about": {
+    "title": "Soluções para seus Projetos",
+    "description": "Uma equipe excepcional de 7 desenvolvedores fullstack é formada através da inspiração, paixão e profundo domínio do conhecimento, destinada a servir cada empreendedor. Somos dedicados e altamente comprometidos com a execução de projetos, e nossa equipe é composta por profissionais com habilidades sólidas de comunicação, experiência de trabalho e aptidão social destacada."
+  },
+  "coder": {
+    "1": "Desenvolvedor web full stack com formação sólida em React, Redux, Nodejs, JavaScript.",
+    "2": "Analítica com alto nível de persistência, dedicada, responsável e comprometida com as relações interpessoais.",
+    "3": "Desenvolvedor Web Full Stack, orientado para Front-end com React, em projetos de comércio eletrônico estruturados nas tendências de mercado com base na demanda.",
+    "4": "Experiência no desenvolvimento de aplicações web interativas e escaláveis. Especializado em JavaScript, React, Node.js, Express.js, Sequelize e PostgreSQL.",
+    "5": "Desenvolvedor web fullstack com especialização em frontend. Apaixonado por criar experiências de usuário agradáveis e funcionais.",
+    "6": "Programador resolutivo e apaixonado. Sempre aprendendo. Inovador, adaptativo, ansioso por integrar as últimas tecnologias. Focado em resultados.",
+    "7": "Desenvolvedor Full Stack apaixonado por tecnologia, em busca constante de soluções com base na experiência, criatividade e disposição para contribuir com sua equipe."
+  },
+  "profileMain": {
+    "Loading": "Carregando",
+    "Basic Information": "Informações Básicas",
+    "Security": "Segurança",
+    "Shopping": "Compras",
+    "UserInformation": "Não foi possível carregar as informações do usuário.",
+    "PleaseLogin": "Por favor, faça login para continuar."
+  },
+  "upProfile": {
+    "Upload-image": "Enviar imagem",
+    "Name": "Nome",
+    "Enter-name": "Por favor, insira seu nome!",
+    "Invalid-name": "Nome inválido.",
+    "LastName": "Sobrenome",
+    "Enter-lastname": "Por favor, insira seu sobrenome!",
+    "Invalid-lastName": "Sobrenome inválido.",
+    "Phone": "Telefone",
+    "Enter-phone": "Por favor, insira seu número de telefone!",
+    "Invalid-phone": "Número inválido.",
+    "Adress": "Endereço",
+    "Enter-Adress": "Por favor, insira seu endereço!",
+    "Invalid-adress": "Endereço inválido.",
+    "Update": "Atualizar"
+  },
+  "security": {
+    "changePassword": "Alterar senha",
+    "Password": "Senha",
+    "update": "Atualizar",
+    "changeEmail": "Alterar E-mail",
+    "E-mail": "E-mail",
+    "InsertPass": "Por favor, insira sua nova senha!",
+    "SuccefullyPass": "Senha atualizada com sucesso. Por favor, faça login novamente com a nova senha.",
+    "PassError": "Houve um erro ao atualizar a senha. Por favor, tente novamente.",
+    "Update": "Atualizar",
+    "InsertEmail": "Por favor, insira seu e-mail!",
+    "InvalidEmail": "E-mail inválido.",
+    "EnterCredentials": "Por favor, insira suas credenciais",
+    "SuccefullyEmail": "E-mail atualizado com sucesso",
+    "Accept": "Aceitar",
+    "EmailReview": "Para continuar, por favor, verifique sua caixa de entrada no novo e-mail.",
+    "EmailNewSession": "Faça login com seu novo endereço de e-mail e pronto!",
+    "EmailError": "Houve um erro ao atualizar o endereço de e-mail. Por favor, tente novamente."
+  },
+  "shopping": {
+    "PurchaseDetail": "Detalhes da compra",
+    "RateProduct": "Avaliar produto",
+    "NoPurchase": "Você ainda não fez nenhuma compra",
+    "FirstPurchase": "Sua primeira compra está te esperando! Descubra a variedade de produtos que temos para você.",
+    "Explore": "Explorar produtos"
+  },
+  "contactUS": {
+      "Name": "Nome:",
+      "NameHolder": "Escreva o seu nome aqui...",
+      "E-mail": "E-mail:",  
+      "E-mailHolder": "Digite seu email aqui...",  
+      "Message": "Mensagem:",
+      "MessageHolder": "Digite sua consulta aqui...",
+      "SendMessage": "Enviar",
+      "Description1": "Quer receber nossos produtos em sua loja?",
+      "Description2": "Contate-nos para mais informações sobre nossos produtos e serviços especiais disponíveis."
+},
+"Products": {
+  "ProductsTitle": "Produtos"
+}
+}

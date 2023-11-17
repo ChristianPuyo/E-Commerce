@@ -1,0 +1,146 @@
+{ "navBar":{
+    "not-costumer-yet?": "Not costumer yet?",
+    "Register": "Register",
+    "Hello": "Welcome back"
+},
+"order":{
+    "Highest-price": "Highest price",
+    "Lowest-price": "Lowest price"
+},
+"filters":{
+    "Categories": "Categories",
+    "Order": "Order",
+    "Chocolate type": "Type of chocolate",
+    "Minimum": "Minimum",
+    "Maximum": "Maximum",
+    "Clear": "Clear"
+
+},
+"types": {
+    "All": "All",
+    "WhiteChocolate": "White Chocolate",
+    "Chocolate_w_milk": "Chocolate with Milk",
+    "Semisweet": "Semisweet Chocolate"
+  },
+"footer":{
+    "Location": "Location",
+    "Social-Media": "Social media",
+    "Contact": "Contact",
+    "Phone": "Phone",
+    "Rights": "All rights reserved"
+},
+"searchBar": {
+    "Search-by-name": "Search by name"
+},
+"map": {
+    "Title": "Where do we meet?"
+},
+"menu":{
+    "Profile": "Profile",
+    "Favorite-products": "Favorite products",
+    "Homepage": "Homepage",
+    "Meet-us": "Meet us",
+    "Contact-Us": "Constact us",
+    "Log-off": "Log off",
+    "Log-in": "Log in",
+    "Administrator-Panel": "Administrator Panel"
+},
+"home":{
+    "error": "No products found"
+},
+"banner": {
+    "title": "Enjoy the best delicacies of the region.",
+    "titledescription1": "Chocolates to your liking: Create, Savor, Enjoy!",
+    "description1": "Make your sweet moments even more special! Discover our range of artisanal chocolates and create your own flavor paradise with custom orders. Turn your ideas into exquisite chocolate realities and place your order today!",
+    "titledescription2": "Chocolate Combos: Find Your Sweet Balance!",
+    "description2": "Discover perfection in every combination! Our artisan chocolate drawers offer you a unique experience. Delight yourself with our carefully prepared selection, where each bite is an explosion of flavor! Find your ideal combo and immerse yourself in a world of sweet sensations.",
+    "titledescription3": "Tempting Delights: Artisanal Chocolates and Bars for Absolute Pleasure",
+    "description3": "Sweet delights in every bite! Explore our variety of artisanal chocolates and chocolate bars. From the indulgence of our exquisite chocolates to the crunchy satisfaction of our bars, each product is created to delight your senses. Immerse yourself in a world of irresistible temptations and let yourself be seduced by the quality of our chocolates.",
+    "titledescription4": "Experience the Magic of Chocolate in Every Bite! Place your Order and Sweeten Yourself with Our Delicious Artisan Eggs.",
+    "description4": "What are you waiting for to delight your palate with our exquisite chocolate eggs? Make every moment sweeter and more special with our handmade products. Place your order now and let the magic of chocolate conquer your day!"
+},
+"carousel":{
+    "slogan": "The art of sweetening your moments!",
+    "Start": "Start"
+},
+"about":{
+    "title": "Solutions to your Projects",
+    "description": "An exceptional team of 7 fullstack developers is forged through inspiration, passion and a deep mastery of knowledge, destined to serve every entrepreneur. We are dedicated and highly committed to project execution, and our team is made up of professionals with solid communication skills, work experience and outstanding social aptitude."
+},
+"coder": {
+    "1": "Full stack web developer with a solid background in React, Redux, Nodejs, JavaScript.",
+    "2": "Analytical with a high level of persistence, dedicated, responsible and committed to interpersonal relationships.",
+    "3": "Full Stack Web Developer, oriented to Front-end with React, in e-commerce projects structured to market trends based on demand.",
+    "4": "Experience in developing interactive and scalable web applications. Specialized in JavaScript, React, Node.js, Express.js, Sequelize and PostgreSQL.",
+    "5": "Fullstack web developer with specialization in frontend. Passionate about creating pleasant and functional user experiences.",
+    "6": "Decisive and passionate programmer. Always learning. Innovative, adaptive, eager to integrate latest technologies. Focused on results.",
+    "7": "Full Stack developer passionate about technology in constant search of solutions based on experience, creativity and willingness to contribute to your team."
+},
+"profileMain": {
+    "Loading": "Loading",
+    "Basic Information": "Basic Information",
+    "Security": "Security",
+    "Shopping": "Shopping",
+    "UserInformation": "Could not load user information",
+    "PleaseLogin": "Please log in to continue."
+  },
+"upProfile": {
+    "Upload-image": "Upload image",
+    "Name": "Name",
+    "Enter-name": "Please enter your name!",
+    "Invalid-name": "Invalid name.",
+    "LastName": "Last Name",
+    "Enter-lastname": "Please enter your last name!",
+    "Invalid-lastName": "Invalid last name.",
+    "Phone": "Phone",
+    "Enter-phone": "Please enter your phone number!",
+    "Invalid-phone": "Invalid number.",
+    "Adress": "Adress",
+    "Enter-Adress": "Please enter your address!",
+    "Invalid-adress": "Invalid address.",
+    "Update": "Update"
+},
+"security": {
+    "changePassword": "Change Password",
+    "Password": "Password",
+    "changeEmail": "Change E-mail",
+    "E-mail": "E-mail",
+    "SuccefullyPass": "Password updated successfully. Please log in again with the new password.",
+    "PassError": "There was an error updating the password. Please try again.",
+    "Update": "Update",
+    "InsertEmail": "Please enter a new your E-mail!",
+    "InsertPass": "Please enter a new password!",
+    "InvalidEmail": "Invalid E-mail.",
+    "EnterCredentials": "Please enter your credentials",
+    "SuccefullyEmail": "E-mail Successfully Updated",
+    "Accept": "Accept",
+    "EmailReview": "To continue, please check your inbox for the new email.",
+    "EmailNewSession": "Sign in with your new email and that's it!",
+    "EmailError": "There was an error updating the email. Please try again."
+},
+"shopping": {
+    "PurchaseDetail": "Purchase details",
+    "RateProduct": "Rate product",
+    "NoPurchase": "You have not made any purchases yet",
+    "FirstPurchase":"Your first purchase is waiting for you! Discover the variety of products we have for you!",
+    "Explore":"Explore products"
+},
+"contactUS": {
+    "Name": "Name:",
+    "NameHolder": "Enter your name here...",
+    "E-mail": "E-mail",
+    "E-mailHolder": "Enter your email here...",
+    "Message": "Message:",
+    "MessageHolder": "Enter your query here...",
+    "SendMessage": "Send",
+    "Description1": "Do you want to get our products in your store?",
+    "Description2": "Contact us for more information about our special products and services available."   
+    
+},
+"Products": {
+    "ProductsTitle": "Products"
+
+}
+
+  
+}

@@ -1,0 +1,11 @@
+.landingContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }  
+
+.imgLogo {
+    max-width: 100%;
+    max-height: 100%;
+      }

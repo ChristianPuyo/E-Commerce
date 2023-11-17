@@ -1,0 +1,29 @@
+.products_cont{
+    width: 100vw;
+    min-height: 100vh;
+    background: #eaeaea;
+}
+.sectionTitle{
+    height: 20vh;
+    color:white;
+    font-size: 48px;
+    font-family: var(--primary-font);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background:var(--ligth-brown) ;
+}
+.search_filter_cont{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.productsSection{
+    display: flex;
+    flex-direction: column;
+    min-height: 120vh;
+}

@@ -1,0 +1,49 @@
+.container{
+    margin: auto; 
+    }
+    
+    .marginIcon{
+        margin: 10px;
+    }
+    
+    /* styles.module.css */
+
+/* Establece un ancho fijo para la tabla */
+.tableContainer {
+    width: 1100px; /* Puedes ajustar el valor según tus necesidades */
+    
+    height: 500px;  
+}
+  
+  /* Establece el ancho de las celdas para que no cambien */
+  .tableContainer table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  
+  /* Establece un alto fijo para las celdas de la tabla */
+  .tableContainer td, .tableContainer th {
+    height: 50px; /* Puedes ajustar el valor según tus necesidades */
+    border: 1px solid #ddd; /* Agrega bordes para separar las celdas */
+    padding: 8px; /* Agrega relleno para un mejor aspecto visual */
+  }
+  
+  /* Estilos adicionales según sea necesario */
+  
+    
+    .titleTable{
+        margin-left: 40%;
+    }
+    
+    .check{
+        color: green;
+    }
+    
+    .block{
+        color: red;
+    }
+    
+    .tableCell {
+        text-align: center; /* Centrar el texto en las celdas */
+      }

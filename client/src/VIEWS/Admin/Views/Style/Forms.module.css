@@ -1,0 +1,104 @@
+/* FormEditProduct.module.css */
+.Container {
+    display: flex;
+    min-width: 60%;
+    max-width: 60%;
+    margin: 5% auto 5% auto;
+    background: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    justify-content: space-around;
+  }
+
+  .tittle {
+    color: #8B4513;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2% 0 0 0;
+  }
+
+  .Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .Section2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 3%;
+  }
+
+  .Element1 {
+    margin: 5%;
+    justify-content: center;
+  }
+  
+  .Element2 {
+    margin: 3%;
+  }
+  
+  .labels {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8B4513;
+    font-weight: bolder;
+  }
+
+  .InputText,
+  .InputNumber,
+  .TextArea {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s, transform 0.3s;
+  }
+  
+  .InputText:focus,
+  .InputNumber:focus,
+  .TextArea:focus {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  .select1 {
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s, transform 0.3s;
+  }
+  
+  .select1:focus {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  .button1 {
+    background-color: #8B4513;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 3%;
+    transition: background-color 0.3s, box-shadow 0.3s, transform 0.3s;
+  }
+  
+  .button1:hover {
+    background-color: #A0522D;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+  }
+  

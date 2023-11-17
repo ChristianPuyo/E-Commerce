@@ -1,0 +1,146 @@
+.navCont{
+    z-index: 100;
+    width: 100vw;
+    height: 12vh;
+    background: #ffffff;
+    color:black;
+    font-family: var(--primary-font);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2.5vw;
+    border-bottom: 1px solid #eaeaea;
+    /* position: fixed;
+    top: 0.0001px; 
+    left: 0.0001px;  */
+}
+
+.logCont{
+   height: 12vh;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin-left: 2%;
+}
+
+.navTittle{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 12vh;
+}
+
+.navTittle h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 12vh;
+}
+.img{
+    width: 4vw;
+    height: 4vw;
+    margin-left: 1vw;
+}
+.navItems{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    padding: 10px;
+    width: 30vw;
+}
+.withMargin {
+  margin-right: 8%;
+}
+.cartIcon{
+    width: 24px;
+    height: 24px;
+}
+.navLinks{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+.item{
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+}
+.cartIconCont{
+    position: relative;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.TotaItems{
+    position: absolute;
+    text-decoration: none;
+    top: 0px;
+    width: 16px;
+    left:10px;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 50%;
+    background: black;
+}
+.brand {
+    color: black;
+    height: 50px;
+    white-space: nowrap;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+  }
+
+.languageSelect {
+  display: flex;
+  align-items: center;
+  width: 4rem; 
+  height: auto; 
+  border: none;
+ 
+}
+.languageSelect > div {
+  margin-right: 40%;
+}
+
+.idiomas{
+  display: flex;
+  align-items: center;
+  margin-right: -15px;
+  height: auto;
+  width: 1.5rem;
+}
+
+.cssSelect{
+  border: none;
+  background: white;
+}
+
+.userCont{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px
+}
+.imgUser{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
